@@ -28,6 +28,6 @@
     "replace-in-file": "^6.3.2"
   },
   "devDependencies": {
-    "release-it": "^14.14.0"
+    "release-it": "^15.5.0"
   }
 }
